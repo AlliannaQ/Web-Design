@@ -1,2 +1,2 @@
 # Web-Design 2024
-<a href="Intro_To_HTML/index.HTML">Intro to HTML</a>
+<a href="intro.to.html/index.HTML">Intro to HTML</a>
