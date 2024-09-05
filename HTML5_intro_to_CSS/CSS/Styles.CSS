@@ -1,11 +1,15 @@
 body{
-    background-color: orange;
+    background-color: rgb(24, 135, 209);
 }
 
 h1 {
-    color: cadetblue;
+    color: rgb(201, 27, 213);
 }
 
 p{
-    color: red;
+    color: black;
+}
+
+ul{
+    color: rgb(175, 10, 10);
 }
