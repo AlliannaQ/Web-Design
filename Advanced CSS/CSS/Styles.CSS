@@ -1,0 +1,113 @@
+body{
+    background-color:darkolivegreen;
+}
+
+#container{
+    background-color: darkolivegreen;
+    width: 100%;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#banner{
+    width: 50%;
+}
+
+#col1{
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+#col2{
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+.heading_style{
+    text-shadow: 2px 1px 2px #b00707;
+}
+
+.basic_picture{
+    width: 25%;
+}
+
+.heeler_family{
+    width: 50%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+nav {
+    text-align: center;
+    margin: 22=0px 0;
+    background-color:goldenrod;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li{
+    display: inline-block;
+}
+
+nav li a {
+display: block;
+color: aliceblue;
+font-size: 24px;
+font-weight: bold;
+text-decoration: none;
+margin: 0 20px;
+width: 125px;
+height:fit-content;
+}
+
+nav a:hover{
+    background-color: antiquewhite;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    color:#462209;
+}
+
+h2 {
+    text-align: center;
+    color: orangered;
+}
+
+h3 {
+    color: #20201f;
+}
+
+p{
+    text-align: center;
+    font-size: medium;
+    color: hsl(40, 60%, 2%);
+}
+
+ul{
+    color: #0f0202;
+}
+
+footer {
+    text-align: center;
+}
+
+main{
+    display: flex;
+}
